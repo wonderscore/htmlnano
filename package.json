@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "cssnano": "^4.1.10",
-    "posthtml": "^0.13.4",
+    "posthtml": "^0.15.1",
     "purgecss": "^2.3.0",
     "relateurl": "^0.2.7",
     "srcset": "^3.0.0",
